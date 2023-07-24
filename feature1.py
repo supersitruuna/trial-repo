@@ -1,5 +1,5 @@
 # let's go suuper basic
 
-print('Hello world!')
+print('Good morning world!')
 
 print('Goodbye moon!')
